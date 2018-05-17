@@ -1,0 +1,6 @@
+{
+  "name": "react-redux-injectors",
+  "version": "0.0.0",
+  "description": "Utilities for injecting sagas and reducers",
+  "license": "MIT"
+}
